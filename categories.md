@@ -1,6 +1,6 @@
 ---
-title: Categories
+title: 分类
 layout: categories
-excerpt: "Category index"
+excerpt: "分类"
 aside: true
 ---
