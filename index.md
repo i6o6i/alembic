@@ -9,4 +9,3 @@ aside: true
 ---
 
 {% include button.html text="filebrowser" link="https://www.scpz.site/pan/" color="#0366d6" %} {% include button.html text="AriaNg" link="https://www.scpz.site/aria/" color="#0d94e7" %}
-
